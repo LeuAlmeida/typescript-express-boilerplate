@@ -1,4 +1,10 @@
+# Dependencies folder
 node_modules
+
+# Build folder
+dist
+
+# Lockfiles and logs
 yarn.lock
 package-lock.json
-dist
+yarn-error.log
